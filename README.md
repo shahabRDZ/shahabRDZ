@@ -55,9 +55,11 @@
 <h1>💻 My Open-source Projects</h1>
 <details open>
 <p align="left">
+    <a href="https://github.com/shahabRDZ/aws-cloud-infra"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=aws-cloud-infra&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AWS Cloud Infrastructure with Terraform"></a>
+    <a href="https://github.com/shahabRDZ/fastapi-auth-service"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=fastapi-auth-service&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="FastAPI Authentication Microservice"></a>
+    <a href="https://github.com/shahabRDZ/ecommerce-api"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=ecommerce-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="E-Commerce REST API"></a>
+    <a href="https://github.com/shahabRDZ/flutter-expense-tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=flutter-expense-tracker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Flutter Expense Tracker"></a>
     <a href="https://github.com/shahabRDZ/GAME.Mafia"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=GAME.Mafia&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Real-time multiplayer Mafia party game"></a>
-    <a href="https://github.com/shahabRDZ/HD-desk"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=HD-desk&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="HDesk Ticketing System"></a>
-    <a href="https://github.com/shahabRDZ/Graphic-Online-Chat-Program"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=Graphic-Online-Chat-Program&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Two-Person Graphic Online Chat with File Sharing"></a>
     <a href="https://github.com/shahabRDZ/personal-website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=personal-website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Personal Portfolio Website"></a>
 </p>
 </details>
