@@ -37,12 +37,12 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahabRDZ&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&text_color=FFFFFF" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahabRDZ&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&text_color=FFFFFF" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahabRDZ&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&text_color=FFFFFF" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shahabRDZ&layout=compact&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&text_color=FFFFFF" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shahabRDZ&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866&sideLabels=F85D7F" width="650"/>
+  <img src="https://streak-stats.demolab.com?user=shahabRDZ&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866&sideLabels=F85D7F" width="650"/>
 </p>
 
 # 📈 Contribution Graph:
@@ -55,12 +55,12 @@
 <h1>💻 My Open-source Projects</h1>
 <details open>
 <p align="left">
-    <a href="https://github.com/shahabRDZ/aws-cloud-infra"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=aws-cloud-infra&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AWS Cloud Infrastructure with Terraform"></a>
-    <a href="https://github.com/shahabRDZ/fastapi-auth-service"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=fastapi-auth-service&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="FastAPI Authentication Microservice"></a>
-    <a href="https://github.com/shahabRDZ/ecommerce-api"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=ecommerce-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="E-Commerce REST API"></a>
-    <a href="https://github.com/shahabRDZ/flutter-expense-tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=flutter-expense-tracker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Flutter Expense Tracker"></a>
-    <a href="https://github.com/shahabRDZ/GAME.Mafia"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=GAME.Mafia&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Real-time multiplayer Mafia party game"></a>
-    <a href="https://github.com/shahabRDZ/personal-website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=personal-website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Personal Portfolio Website"></a>
+    <a href="https://github.com/shahabRDZ/aws-cloud-infra"><img width="278" src="https://denvercoder1-github-readme-stats-sigma-five.vercel.app/api/pin/?username=shahabRDZ&repo=aws-cloud-infra&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AWS Cloud Infrastructure with Terraform"></a>
+    <a href="https://github.com/shahabRDZ/fastapi-auth-service"><img width="278" src="https://denvercoder1-github-readme-stats-sigma-five.vercel.app/api/pin/?username=shahabRDZ&repo=fastapi-auth-service&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="FastAPI Authentication Microservice"></a>
+    <a href="https://github.com/shahabRDZ/ecommerce-api"><img width="278" src="https://denvercoder1-github-readme-stats-sigma-five.vercel.app/api/pin/?username=shahabRDZ&repo=ecommerce-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="E-Commerce REST API"></a>
+    <a href="https://github.com/shahabRDZ/flutter-expense-tracker"><img width="278" src="https://denvercoder1-github-readme-stats-sigma-five.vercel.app/api/pin/?username=shahabRDZ&repo=flutter-expense-tracker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Flutter Expense Tracker"></a>
+    <a href="https://github.com/shahabRDZ/GAME.Mafia"><img width="278" src="https://denvercoder1-github-readme-stats-sigma-five.vercel.app/api/pin/?username=shahabRDZ&repo=GAME.Mafia&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Real-time multiplayer Mafia party game"></a>
+    <a href="https://github.com/shahabRDZ/personal-website"><img width="278" src="https://denvercoder1-github-readme-stats-sigma-five.vercel.app/api/pin/?username=shahabRDZ&repo=personal-website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Personal Portfolio Website"></a>
 </p>
 </details>
 
