@@ -60,8 +60,11 @@
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### 💭 My Philosophy
+
+> *"I don't just write code — I engineer trust. From Zero Trust networks to zero-downtime deployments, every system I build is a promise that it will work when it matters most."*
+>
+> — Shahab Rashidian Dezfuly
 
 ---
 
