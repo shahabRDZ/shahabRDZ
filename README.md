@@ -24,6 +24,20 @@
 
 ---
 
+<h1>💻 My Open-source Projects</h1>
+<details open>
+<p align="left">
+    <a href="https://github.com/shahabRDZ/aws-cloud-infra"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=aws-cloud-infra&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AWS Cloud Infrastructure"></a>
+    <a href="https://github.com/shahabRDZ/fastapi-auth-service"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=fastapi-auth-service&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="FastAPI Auth Microservice"></a>
+    <a href="https://github.com/shahabRDZ/ecommerce-api"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=ecommerce-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="E-Commerce REST API"></a>
+    <a href="https://github.com/shahabRDZ/flutter-expense-tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=flutter-expense-tracker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Flutter Expense Tracker"></a>
+    <a href="https://github.com/shahabRDZ/GAME.Mafia"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=GAME.Mafia&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Mafia Party Game"></a>
+    <a href="https://github.com/shahabRDZ/personal-website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=personal-website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Personal Website"></a>
+</p>
+</details>
+
+---
+
 # 🏢 Experience:
 
 | Role | Company | Period |
@@ -35,6 +49,13 @@
 
 ---
 
+# 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahabRDZ&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
+</p>
+
+---
+
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahabRDZ&show_icons=true&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&text_color=FFFFFF" height="170"/>
@@ -43,32 +64,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shahabRDZ&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866&sideLabels=F85D7F" width="650"/>
-</p>
-
-# 📈 Contribution Graph:
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahabRDZ&bg_color=1F222E&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true&v=2" width="95%"/>
-</p>
-
----
-
-<h1>💻 My Open-source Projects</h1>
-<details open>
-<p align="left">
-    <a href="https://github.com/shahabRDZ/aws-cloud-infra"><img width="278" src="https://denvercoder1-github-readme-stats-sigma-five.vercel.app/api/pin/?username=shahabRDZ&repo=aws-cloud-infra&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AWS Cloud Infrastructure with Terraform"></a>
-    <a href="https://github.com/shahabRDZ/fastapi-auth-service"><img width="278" src="https://denvercoder1-github-readme-stats-sigma-five.vercel.app/api/pin/?username=shahabRDZ&repo=fastapi-auth-service&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="FastAPI Authentication Microservice"></a>
-    <a href="https://github.com/shahabRDZ/ecommerce-api"><img width="278" src="https://denvercoder1-github-readme-stats-sigma-five.vercel.app/api/pin/?username=shahabRDZ&repo=ecommerce-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="E-Commerce REST API"></a>
-    <a href="https://github.com/shahabRDZ/flutter-expense-tracker"><img width="278" src="https://denvercoder1-github-readme-stats-sigma-five.vercel.app/api/pin/?username=shahabRDZ&repo=flutter-expense-tracker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Flutter Expense Tracker"></a>
-    <a href="https://github.com/shahabRDZ/GAME.Mafia"><img width="278" src="https://denvercoder1-github-readme-stats-sigma-five.vercel.app/api/pin/?username=shahabRDZ&repo=GAME.Mafia&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Real-time multiplayer Mafia party game"></a>
-    <a href="https://github.com/shahabRDZ/personal-website"><img width="278" src="https://denvercoder1-github-readme-stats-sigma-five.vercel.app/api/pin/?username=shahabRDZ&repo=personal-website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Personal Portfolio Website"></a>
-</p>
-</details>
-
----
-
-# 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahabRDZ&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" width="95%"/>
 </p>
 
 ---
@@ -103,15 +98,11 @@
 
 ---
 
----
-
 <p align="center">
 
-`#BackendDeveloper` `#FullStackDeveloper` `#DevOps` `#CloudArchitect` `#AWS` `#Docker` `#Kubernetes` `#CI_CD` `#Python` `#PHP` `#CSharp` `#ASP_NET` `#FlutterDeveloper` `#MobileDev` `#Dart` `#VibeCoder` `#AI` `#MachineLearning` `#DataMining` `#REST_API` `#Microservices` `#SQL` `#PostgreSQL` `#Redis` `#MySQL` `#Git` `#Linux` `#InfrastructureAsCode` `#Serverless` `#WebDeveloper` `#SoftwareEngineer` `#ComputerEngineering` `#SharifUniversity` `#ZeroTrust` `#NetworkSecurity` `#Scrum` `#Agile` `#ProjectManagement` `#OpenSource` `#RemoteWork` `#Istanbul`
+`#BackendDeveloper` `#FullStackDeveloper` `#DevOps` `#CloudArchitect` `#AWS` `#Docker` `#Kubernetes` `#CI_CD` `#Python` `#PHP` `#CSharp` `#ASP_NET` `#FlutterDeveloper` `#MobileDev` `#VibeCoder` `#AI` `#REST_API` `#Microservices` `#PostgreSQL` `#Redis` `#SoftwareEngineer` `#OpenSource` `#RemoteWork`
 
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F85D7F,100:F8D866&height=100&section=footer" width="100%"/>
