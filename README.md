@@ -67,15 +67,6 @@
   <a href="https://github.com/shahabRDZ/Graphic-Online-Chat-Program">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=Graphic-Online-Chat-Program&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Chat Program" />
   </a>
-  <a href="https://github.com/shahabRDZ/Online_Shop">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=Online_Shop&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Online Shop" />
-  </a>
-  <a href="https://github.com/shahabRDZ/Numerical-Integration">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=Numerical-Integration&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Numerical Integration" />
-  </a>
-  <a href="https://github.com/shahabRDZ/cacti-menu">
-    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=cacti-menu&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Cacti Menu" />
-  </a>
   <a href="https://github.com/shahabRDZ/personal-website">
     <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=personal-website&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Personal Website" />
   </a>
