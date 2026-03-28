@@ -1,157 +1,110 @@
-<div align="center">
+<p align="center">
+  <a href="https://github.com/shahabRDZ">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C6AEF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Shahab+Rashidian+Dezfuly;Software+Engineer+%7C+Cloud+Architect" alt="Typing SVG" />
+  </a>
+</p>
 
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shahab%20Rashidian%20Dezfuly&fontSize=42&fontAlignY=35&desc=Software%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Full%20Stack%20Developer&descSize=16&descAlignY=55&fontColor=ffffff" width="100%"/>
+<h3>My friends call me Shahab! 👋</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahab-rashidian-17647a166/)
+<h2>شهاب رشیدیان دزفولی</h2>
+
+# 💎 About Me:
+
+- 💻 I'm a **Senior Backend & Full Stack Developer** based in **Istanbul, Turkey**
+- 🎓 **B.Sc. Computer Engineering** from **Sharif University of Technology** (GPA: 17.54/20)
+- ☁️ I design **AWS cloud-native architectures** and build **DevOps pipelines**
+- 📱 I develop cross-platform **mobile apps with Flutter**
+- 🧠 **Vibe Coder** — I love leveraging AI for rapid prototyping and creative solutions
+- 🌍 Fluent in **English** (TOEFL 103) & **Persian** (Native)
+- 🤝 Open to **remote work** and **volunteer/open-source projects**
+- 🎯 Coding is my passion — I enjoy turning complex problems into clean, scalable solutions
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/shahab-rashidian-17647a166/)**
+
+## 🌐 Socials:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahab-rashidian-17647a166/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahabRDZ)
 [![Portfolio](https://img.shields.io/badge/Portfolio-7c6aef?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shahabrdz.github.io/personal-website/portfolio/)
 
-</div>
+# 🤖 Tech Stack:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### About Me
+<h1>📂 Open-source Projects</h1>
 
-```yaml
-name: Shahab Rashidian Dezfuly
-location: Istanbul, Turkey
-education: B.Sc. Computer Engineering — Sharif University of Technology
-languages: English (Fluent, TOEFL 103), Persian (Native)
-status: Open to remote work & volunteer projects
-```
+<details open>
+<summary>Click to expand/collapse</summary>
+<br>
 
-I'm a **Computer Engineer** from Sharif University of Technology with hands-on experience building scalable backend systems, cloud-native architectures, and cross-platform mobile applications. I enjoy turning complex problems into clean, maintainable solutions.
+<p align="center">
+  <a href="https://github.com/shahabRDZ/GAME.Mafia">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=GAME.Mafia&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="GAME.Mafia" />
+  </a>
+  <a href="https://github.com/shahabRDZ/HD-desk">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=HD-desk&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="HD-desk" />
+  </a>
+  <a href="https://github.com/shahabRDZ/Graphic-Online-Chat-Program">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=Graphic-Online-Chat-Program&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Chat Program" />
+  </a>
+  <a href="https://github.com/shahabRDZ/Online_Shop">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=Online_Shop&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Online Shop" />
+  </a>
+  <a href="https://github.com/shahabRDZ/Numerical-Integration">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=Numerical-Integration&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Numerical Integration" />
+  </a>
+  <a href="https://github.com/shahabRDZ/cacti-menu">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=cacti-menu&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Cacti Menu" />
+  </a>
+  <a href="https://github.com/shahabRDZ/personal-website">
+    <img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=personal-website&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Personal Website" />
+  </a>
+</p>
 
----
-
-### What I Do
-
-<table>
-<tr>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=python" width="40"/><br>
-<strong>Backend</strong><br>
-<sub>Python, PHP, ASP.NET</sub>
-</td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=aws" width="40"/><br>
-<strong>Cloud</strong><br>
-<sub>AWS Architecture</sub>
-</td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=docker" width="40"/><br>
-<strong>DevOps</strong><br>
-<sub>Docker, CI/CD</sub>
-</td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=flutter" width="40"/><br>
-<strong>Mobile</strong><br>
-<sub>Flutter, Dart</sub>
-</td>
-<td align="center" width="150">
-<img src="https://skillicons.dev/icons?i=mysql" width="40"/><br>
-<strong>Database</strong><br>
-<sub>SQL, Database Design</sub>
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-### Tech Stack
+### 📜 Publications
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-
-</div>
-
----
-
-### Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| **Freelance Software Developer** | Independent (Remote) | 2022 — Present |
-| **Teaching Assistant** | Sharif University of Technology | 2021 — 2023 |
-| **Backend Developer** | Zino Tech | Jul — Nov 2022 |
-| **Backend Developer** | AloPeyk | Apr — Sep 2019 |
-
----
-
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shahabRDZ&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c6aef&icon_color=38d9a9&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahabRDZ&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c6aef&text_color=c9d1d9" height="165"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shahabRDZ&theme=tokyonight&hide_border=true&background=0d1117&ring=7c6aef&fire=38d9a9&currStreakLabel=38d9a9" width="700"/>
-
-</div>
-
----
-
-### Featured Projects
-
-<div align="center">
-
-[![Mafia Game](https://github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=GAME.Mafia&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c6aef&icon_color=38d9a9)](https://github.com/shahabRDZ/GAME.Mafia)
-[![HD-desk](https://github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=HD-desk&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c6aef&icon_color=38d9a9)](https://github.com/shahabRDZ/HD-desk)
-[![Chat Program](https://github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=Graphic-Online-Chat-Program&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c6aef&icon_color=38d9a9)](https://github.com/shahabRDZ/Graphic-Online-Chat-Program)
-[![Online Shop](https://github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=Online_Shop&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c6aef&icon_color=38d9a9)](https://github.com/shahabRDZ/Online_Shop)
-
-</div>
-
----
-
-### Publications
-
-- **Examining the Negative Effects of Virtual Networks for Children and Teenagers**
+- 📄 **Examining the Negative Effects of Virtual Networks for Children and Teenagers**
   *A. Ranjbar, S. Novkarizi, S. Rashidian Dezfuly* — Avicenna Int'l Community College, 2023
 
-- **Analysis of Applications of Internet of Things in Healthcare**
+- 📄 **Analysis of Applications of Internet of Things in Healthcare**
   *A. Zakarian, M. Rahmani, S. Rashidian Dezfuly* — Avicenna Int'l Community College, 2023
 
 ---
 
-### Certifications
+### ✍️ Random Dev Quote
 
-<div align="center">
-
-![Google Ads](https://img.shields.io/badge/Google_Ads_Search-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum_&_Project_Mgmt-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
-![Product Mgmt](https://img.shields.io/badge/Product_Management-FF6F00?style=for-the-badge&logo=google-analytics&logoColor=white)
-
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
 
 ---
 
-<div align="center">
+<h3 align="left">👁️ Profile Views</h3>
 
-<img src="https://komarev.com/ghpvc/?username=shahabRDZ&style=flat-square&color=7c6aef&label=Profile+Views" />
-
-<br><br>
-
-*Building software that scales. Open to remote opportunities & collaboration.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shahabRDZ&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
