@@ -101,6 +101,16 @@
 
 ---
 
+---
+
+<p align="center">
+
+`#BackendDeveloper` `#FullStackDeveloper` `#DevOps` `#CloudArchitect` `#AWS` `#Docker` `#Kubernetes` `#CI_CD` `#Python` `#PHP` `#CSharp` `#ASP_NET` `#FlutterDeveloper` `#MobileDev` `#Dart` `#VibeCoder` `#AI` `#MachineLearning` `#DataMining` `#REST_API` `#Microservices` `#SQL` `#PostgreSQL` `#Redis` `#MySQL` `#Git` `#Linux` `#InfrastructureAsCode` `#Serverless` `#WebDeveloper` `#SoftwareEngineer` `#ComputerEngineering` `#SharifUniversity` `#ZeroTrust` `#NetworkSecurity` `#Scrum` `#Agile` `#ProjectManagement` `#OpenSource` `#RemoteWork` `#Istanbul`
+
+</p>
+
+---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F85D7F,100:F8D866&height=100&section=footer" width="100%"/>
 </p>
