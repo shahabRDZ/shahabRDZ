@@ -67,14 +67,6 @@ Software Engineer with 5+ years of experience building high-traffic APIs and sca
 
 ---
 
-# Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahabRDZ&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" width="650"/>
-</p>
-
----
-
 # Snake
 
 <p align="center">
