@@ -4,7 +4,7 @@
 
 # About Me
 
-Software Engineer with 5+ years of experience building high-traffic APIs and scalable infrastructure. Author of **12 open-source Python packages** on PyPI. B.Sc. in Computer Engineering from **Sharif University of Technology** (GPA: 17.54/20). Based in **Istanbul, Turkey** — available for remote work worldwide.
+Software Engineer with 5+ years of experience building high-traffic APIs and scalable infrastructure. Author of **16 open-source Python packages** on PyPI. B.Sc. in Computer Engineering from **Sharif University of Technology** (GPA: 17.54/20). Based in **Istanbul, Turkey** — available for remote work worldwide.
 
 - Backend Development: Python, FastAPI, Flask, PHP
 - Cloud & DevOps: AWS (ECS, RDS, ALB), Docker, Kubernetes, Terraform, CI/CD
@@ -26,7 +26,7 @@ Software Engineer with 5+ years of experience building high-traffic APIs and sca
 
 # Published PyPI Packages
 
-I maintain **12 open-source Python packages** — install any of them with `pip install`:
+I maintain **16 open-source Python packages** on PyPI — install any of them with `pip install`:
 
 ### FastAPI Ecosystem
 | Package | Description | Install |
@@ -37,6 +37,8 @@ I maintain **12 open-source Python packages** — install any of them with `pip 
 | [apikeyauth](https://pypi.org/project/apikeyauth/) | Drop-in API key authentication | `pip install apikeyauth` |
 | [reqlog-middleware](https://pypi.org/project/reqlog-middleware/) | Auto-log every request with timing | `pip install reqlog-middleware` |
 | [healthkit](https://pypi.org/project/healthkit/) | Professional /health endpoint (DB, Redis, disk) | `pip install healthkit` |
+| [fastapi-admin-panel](https://pypi.org/project/fastapi-admin-panel/) | Auto-generated admin dashboard — like Django | `pip install fastapi-admin-panel` |
+| [fastapi-rbac-kit](https://pypi.org/project/fastapi-rbac-kit/) | Role-based access control with permissions | `pip install fastapi-rbac-kit` |
 
 ### Python Tools
 | Package | Description | Install |
@@ -47,6 +49,8 @@ I maintain **12 open-source Python packages** — install any of them with `pip 
 | [migratecheck](https://pypi.org/project/migratecheck/) | Catch dangerous DB migrations before deploy | `pip install migratecheck` |
 | [dbseed](https://pypi.org/project/dbseed/) | Auto-generate fake data for SQLAlchemy | `pip install dbseed` |
 | [dotcompare](https://pypi.org/project/dotcompare/) | Compare .env files — find missing vars | `pip install dotcompare` |
+| [sqlalchemy-soft-delete](https://pypi.org/project/sqlalchemy-soft-delete/) | Soft delete mixin — never lose data | `pip install sqlalchemy-soft-delete` |
+| [pywebhook-lite](https://pypi.org/project/pywebhook-lite/) | Webhook sender/receiver with HMAC signatures | `pip install pywebhook-lite` |
 
 ---
 
