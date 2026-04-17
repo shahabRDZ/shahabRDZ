@@ -41,6 +41,10 @@ Software Engineer with 5+ years of experience building high-traffic APIs and sca
     <a href="https://github.com/shahabRDZ/pymon"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=pymon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="pymon"></a>
     <a href="https://github.com/shahabRDZ/fastapi-error-handler"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=fastapi-error-handler&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="FastAPI Error Handler"></a>
     <a href="https://github.com/shahabRDZ/envguard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=envguard&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="envguard"></a>
+    <a href="https://github.com/shahabRDZ/fastapi-cache-pro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=fastapi-cache-pro&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="FastAPI Cache Pro"></a>
+    <a href="https://github.com/shahabRDZ/logpretty"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=logpretty&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="logpretty"></a>
+    <a href="https://github.com/shahabRDZ/apikeyauth"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=apikeyauth&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="apikeyauth"></a>
+    <a href="https://github.com/shahabRDZ/dbseed"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=dbseed&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="dbseed"></a>
 </p>
 
 ---
