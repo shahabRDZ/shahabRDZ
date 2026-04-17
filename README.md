@@ -39,7 +39,8 @@ Software Engineer with 5+ years of experience building high-traffic APIs and sca
     <a href="https://github.com/shahabRDZ/fastapi-auth-service"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=fastapi-auth-service&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="FastAPI Auth Microservice"></a>
     <a href="https://github.com/shahabRDZ/fastapi-production-template"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=fastapi-production-template&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="FastAPI Production Template"></a>
     <a href="https://github.com/shahabRDZ/pymon"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=pymon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="pymon"></a>
-    <a href="https://github.com/shahabRDZ/ecommerce-api"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=ecommerce-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="E-Commerce REST API"></a>
+    <a href="https://github.com/shahabRDZ/fastapi-error-handler"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=fastapi-error-handler&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="FastAPI Error Handler"></a>
+    <a href="https://github.com/shahabRDZ/envguard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=envguard&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="envguard"></a>
 </p>
 
 ---
