@@ -4,15 +4,15 @@
 
 # About Me
 
-Software Engineer with 5+ years of experience building high-traffic APIs and scalable infrastructure. B.Sc. in Computer Engineering from **Sharif University of Technology** (GPA: 17.54/20). Based in **Istanbul, Turkey** — available for remote work worldwide.
+Software Engineer with 5+ years of experience building high-traffic APIs and scalable infrastructure. Author of **12 open-source Python packages** on PyPI. B.Sc. in Computer Engineering from **Sharif University of Technology** (GPA: 17.54/20). Based in **Istanbul, Turkey** — available for remote work worldwide.
 
 - Backend Development: Python, FastAPI, Flask, PHP
 - Cloud & DevOps: AWS (ECS, RDS, ALB), Docker, Kubernetes, Terraform, CI/CD
 - Databases: PostgreSQL, MySQL, Redis
-- Currently exploring: Real-time systems, AI-powered workflows
+- Open Source: 12 published PyPI packages, 15+ active repositories
 
 ## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahab-rashidian-17647a166/) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/shahabRDZ) [![Portfolio](https://img.shields.io/badge/Portfolio-%237c6aef.svg?logo=googlechrome&logoColor=white)](https://shahabrdz.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahab-rashidian-17647a166/) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/shahabRDZ) [![PyPI](https://img.shields.io/badge/PyPI-Author-%233775A9.svg?logo=pypi&logoColor=white)](https://pypi.org/user/shahabrdz/) [![Portfolio](https://img.shields.io/badge/Portfolio-%237c6aef.svg?logo=googlechrome&logoColor=white)](https://shahabrdz.dev)
 
 ---
 
@@ -24,33 +24,47 @@ Software Engineer with 5+ years of experience building high-traffic APIs and sca
 
 ---
 
+# Published PyPI Packages
+
+I maintain **12 open-source Python packages** — install any of them with `pip install`:
+
+### FastAPI Ecosystem
+| Package | Description | Install |
+|---------|-------------|---------|
+| [fastapi-error-handler](https://pypi.org/project/fastapi-error-handler/) | Consistent error handling — one line setup | `pip install fastapi-error-handler` |
+| [fastapi-cache-pro](https://pypi.org/project/fastapi-cache-pro/) | `@cache(ttl=60)` decorator for endpoints | `pip install fastapi-cache-pro` |
+| [fastapi-paginate-pro](https://pypi.org/project/fastapi-paginate-pro/) | Effortless pagination with `Page[T]` | `pip install fastapi-paginate-pro` |
+| [apikeyauth](https://pypi.org/project/apikeyauth/) | Drop-in API key authentication | `pip install apikeyauth` |
+| [reqlog-middleware](https://pypi.org/project/reqlog-middleware/) | Auto-log every request with timing | `pip install reqlog-middleware` |
+| [healthkit](https://pypi.org/project/healthkit/) | Professional /health endpoint (DB, Redis, disk) | `pip install healthkit` |
+
+### Python Tools
+| Package | Description | Install |
+|---------|-------------|---------|
+| [envguard-check](https://pypi.org/project/envguard-check/) | Validate .env variables before app starts | `pip install envguard-check` |
+| [logpretty](https://pypi.org/project/logpretty/) | Beautiful, colorful terminal logging | `pip install logpretty` |
+| [cronify-scheduler](https://pypi.org/project/cronify-scheduler/) | Lightweight task scheduler — no Celery | `pip install cronify-scheduler` |
+| [migratecheck](https://pypi.org/project/migratecheck/) | Catch dangerous DB migrations before deploy | `pip install migratecheck` |
+| [dbseed](https://pypi.org/project/dbseed/) | Auto-generate fake data for SQLAlchemy | `pip install dbseed` |
+| [dotcompare](https://pypi.org/project/dotcompare/) | Compare .env files — find missing vars | `pip install dotcompare` |
+
+---
+
 # Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-# Projects
+# Featured Projects
 
 <p align="left">
-    <a href="https://github.com/shahabRDZ/Nexly"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=Nexly&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Nexly"></a>
     <a href="https://github.com/shahabRDZ/ai-fraud-detector"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=ai-fraud-detector&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI Fraud Detector"></a>
-    <a href="https://github.com/shahabRDZ/aws-cloud-infra"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=aws-cloud-infra&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AWS Cloud Infrastructure"></a>
-    <a href="https://github.com/shahabRDZ/fastapi-auth-service"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=fastapi-auth-service&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="FastAPI Auth Microservice"></a>
-    <a href="https://github.com/shahabRDZ/fastapi-production-template"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=fastapi-production-template&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="FastAPI Production Template"></a>
-    <a href="https://github.com/shahabRDZ/pymon"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=pymon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="pymon"></a>
+    <a href="https://github.com/shahabRDZ/Nexly"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=Nexly&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Nexly"></a>
     <a href="https://github.com/shahabRDZ/fastapi-error-handler"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=fastapi-error-handler&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="FastAPI Error Handler"></a>
-    <a href="https://github.com/shahabRDZ/envguard"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=envguard&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="envguard"></a>
-    <a href="https://github.com/shahabRDZ/fastapi-cache-pro"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=fastapi-cache-pro&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="FastAPI Cache Pro"></a>
-    <a href="https://github.com/shahabRDZ/logpretty"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=logpretty&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="logpretty"></a>
-    <a href="https://github.com/shahabRDZ/apikeyauth"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=apikeyauth&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="apikeyauth"></a>
-    <a href="https://github.com/shahabRDZ/dbseed"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=dbseed&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="dbseed"></a>
-    <a href="https://github.com/shahabRDZ/fastapi-paginate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=fastapi-paginate&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="fastapi-paginate"></a>
+    <a href="https://github.com/shahabRDZ/fastapi-production-template"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=fastapi-production-template&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="FastAPI Production Template"></a>
+    <a href="https://github.com/shahabRDZ/aws-cloud-infra"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=aws-cloud-infra&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AWS Cloud Infrastructure"></a>
     <a href="https://github.com/shahabRDZ/cronify"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=cronify&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="cronify"></a>
-    <a href="https://github.com/shahabRDZ/migratecheck"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=migratecheck&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="migratecheck"></a>
-    <a href="https://github.com/shahabRDZ/reqlog"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=reqlog&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="reqlog"></a>
-    <a href="https://github.com/shahabRDZ/healthkit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=healthkit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="healthkit"></a>
-    <a href="https://github.com/shahabRDZ/dotcompare"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=dotcompare&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="dotcompare"></a>
 </p>
 
 ---
