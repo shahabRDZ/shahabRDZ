@@ -16,6 +16,14 @@ Software Engineer with 5+ years of experience building high-traffic APIs and sca
 
 ---
 
+# Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shahabRDZ&theme=algolia&no-frame=true&no-bg=true&column=7" />
+</p>
+
+---
+
 # Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -26,9 +34,11 @@ Software Engineer with 5+ years of experience building high-traffic APIs and sca
 
 <p align="left">
     <a href="https://github.com/shahabRDZ/Nexly"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=Nexly&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Nexly"></a>
+    <a href="https://github.com/shahabRDZ/ai-fraud-detector"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=ai-fraud-detector&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI Fraud Detector"></a>
     <a href="https://github.com/shahabRDZ/aws-cloud-infra"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=aws-cloud-infra&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AWS Cloud Infrastructure"></a>
     <a href="https://github.com/shahabRDZ/fastapi-auth-service"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=fastapi-auth-service&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="FastAPI Auth Microservice"></a>
     <a href="https://github.com/shahabRDZ/ecommerce-api"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=ecommerce-api&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="E-Commerce REST API"></a>
+    <a href="https://github.com/shahabRDZ/flutter-expense-tracker"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=shahabRDZ&repo=flutter-expense-tracker&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Flutter Expense Tracker"></a>
 </p>
 
 ---
@@ -53,6 +63,26 @@ Software Engineer with 5+ years of experience building high-traffic APIs and sca
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shahabRDZ&theme=react&hide_border=true&background=1F222E&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866&sideLabels=F85D7F" width="650"/>
+</p>
+
+---
+
+# Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahabRDZ&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" width="650"/>
+</p>
+
+---
+
+# Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shahabRDZ/shahabRDZ/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shahabRDZ/shahabRDZ/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/shahabRDZ/shahabRDZ/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
