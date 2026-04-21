@@ -16,14 +16,6 @@ Software Engineer with 5+ years of experience building high-traffic APIs and sca
 
 ---
 
-# Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahabRDZ&theme=algolia&no-frame=true&no-bg=true&column=7" />
-</p>
-
----
-
 # Published PyPI Packages
 
 I maintain **16 open-source Python packages** on PyPI — install any of them with `pip install`:
